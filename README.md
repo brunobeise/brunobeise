@@ -14,10 +14,7 @@
 
 
 <p align="left">
-  📚 <strong>Estudante (HTML, CSS e JS) </strong>
-</p>
-<p align="left">
-   🎨 <strong>Domínio (Photoshop, CorelDraw) </strong>
+  📚 <strong> React | Node | Typescript </strong>
 </p>
 
 
