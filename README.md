@@ -8,9 +8,6 @@
 <p align="left"> 
  Full Stack web Developer by <a href="https://www.growdev.com.br"</a> &copy;Growdev </a>
   </p>
-  <p align="left"> 
-  10º Turma Web Full Stack Developer
-  </p>
 
 
 <p align="left">
