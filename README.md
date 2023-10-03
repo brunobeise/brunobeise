@@ -12,7 +12,7 @@ Tech Helper |
 
 
 <p align="left">
-  📚 <strong> React | Node | Typescript </strong>
+  📚 <strong> React/Vue | Node | Laravel | Typescript </strong>
 </p>
 
 
