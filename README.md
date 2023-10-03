@@ -17,7 +17,7 @@ Tech Helper |
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bruno-beise-61b325247/" alt="Linkedin">
+  <a target="blank" href="https://www.linkedin.com/in/bruno-beise-61b325247/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5551995529578" alt="WhatsApp">
