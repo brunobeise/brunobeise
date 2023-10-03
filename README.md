@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  🧑 Bruno Beise | 20 anos | Rio Grande do Sul 
+  🧑 Bruno Beise | 22 anos | Rio Grande do Sul 
 </p>
 
 <p align="left"> 
