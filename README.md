@@ -7,7 +7,7 @@
 
 <p align="left"> 
 Tech Helper |
- Full Stack web Developer <a href="https://www.growdev.com.br"</a> &copy;Growdev </a>
+ Full Stack web Developer <a href="https://tech6group.com"</a> &copy;Tech6 Group </a>
   </p>
 
 
